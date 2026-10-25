@@ -1,0 +1,2 @@
+892e0cad08658536448ea821bbd3029e7de52d3f02f2916afd7159c23574477a  UaExpert-2.0.2-zh-CN-Setup.exe
+884cb28ba268fb626f0e2383131dc191847bed287d6331c2c8fce8f7af7917a0  UaExpert-zh-CN-source.zip

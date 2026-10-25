@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<content>
+    <category name="文档资料">
+        <item name="UaExpert 用户手册" link="/../doc/html/index.html" />
+        <item name="入门：创建自己的证书" link="/../doc/html/first_steps.html" />
+        <item name="连接：发现、连接和身份验证" link="/../doc/html/connect.html" />
+        <item name="插件：探索 UaExpert 的更多功能" link="/../doc/html/plugins.html" />
+    </category>
+    <category name="Unified Automation 产品">
+        <item name="UaGateway：聚合、映射及连接 OPC Classic 和 UA 数据点" link="https://www.unified-automation.com/products/ua-runtime-software/uagateway.html" />
+        <item name="UaGDS：管理安全、证书和吊销" link="https://www.unified-automation.com/products/ua-runtime-software/uagds.html" />
+        <item name="UaModeler：创建信息模型和配套规范" link="https://www.unified-automation.com/products/development-tools/uamodeler.html" />
+        <item name="UaSDK：使用 SDK/工具包构建 UA 应用程序" link="https://www.unified-automation.com/products/sdk-overview/choose-sdk.html" />
+    </category>
+</content>

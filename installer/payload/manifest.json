@@ -1,0 +1,68 @@
+{
+  "product": "UaExpert",
+  "version": "2.0.2",
+  "architecture": "x64",
+  "exeSha256": "be15f711737d0c1df9baf31fa1aa806e2af462ea83e00b1b6d75a2ff1d4cc359",
+  "files": [
+    {
+      "path": "bin/uaexpert_zh_CN.qm",
+      "sha256": "a149dbbfa2e192d58f63dcfa0abdb0f86181527c0e6bed821899255b492d6bc1"
+    },
+    {
+      "path": "bin/uaexpert.qm",
+      "sha256": "a149dbbfa2e192d58f63dcfa0abdb0f86181527c0e6bed821899255b492d6bc1"
+    },
+    {
+      "path": "bin/start_page.xml",
+      "sha256": "52f70e11e122fa6c92ca54c95824305cda14c669fba4259a214105b5459cc737"
+    },
+    {
+      "path": "share/tips/tip1.md",
+      "sha256": "311bd32ed348020946b35e8de284d88bdac6787bae9cdd263ddf1fab820bb870"
+    },
+    {
+      "path": "share/tips/tip2.md",
+      "sha256": "d64cb7733406d2d9f4176682e41e242613908e28d034c3d6f93d6254799a84d0"
+    },
+    {
+      "path": "share/tips/tip3.md",
+      "sha256": "0833f80c6ae30544daf1785eeb4fb337849b7ed4b82985e50dfd36126fa258ad"
+    },
+    {
+      "path": "share/tips/tip4.md",
+      "sha256": "e26b007c0413f722ffd02e65d936ca17b103a445b329b94bf9354967f758ca61"
+    },
+    {
+      "path": "share/tips/tip5.md",
+      "sha256": "e50475e41400de8dc17df5a80f7955a9b42f6129df537cf3efd0dd9c036a7ced"
+    },
+    {
+      "path": "share/tips/tip6.md",
+      "sha256": "74d8fbcebe2639935cf671cd7a9a3a4a811ea28c49a6d5ac6c2fd67c64cca1e5"
+    },
+    {
+      "path": "share/tips/tip7.md",
+      "sha256": "a3a6c019d9a11b51f111111bddd11b869a2ddc12c68abcfb7e5ba74a108dd494"
+    },
+    {
+      "path": "share/tips/tip8.md",
+      "sha256": "39b1e9b5ccab77f7fdc0fe084d5f8bdba18c47ec50d9578f1cd8a9acbb154b55"
+    },
+    {
+      "path": "share/tips/tip9.md",
+      "sha256": "7577124a5de508f1c5f4e938d7f9b2f6b894b61f201bbdd23475e9d143d5237e"
+    },
+    {
+      "path": "share/tips/tip10.md",
+      "sha256": "d655a129b6d36a1d33c44b88a97e51e4400f0e65d9d25ed812fc536b874cdafe"
+    },
+    {
+      "path": "share/tips/tip11.md",
+      "sha256": "3f24a430f109deba929f01921eb9c82afc448e2e915a7f96126bd091eec386b1"
+    },
+    {
+      "path": "share/tips/tip12.md",
+      "sha256": "b202c828d10616b935f0cb59a7742cf6597ddcd581efbee9a6ad6de4847a61c1"
+    }
+  ]
+}

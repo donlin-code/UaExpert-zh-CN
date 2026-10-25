@@ -1,0 +1,5 @@
+dist/
+__pycache__/
+*.pyc
+installer/*.exe
+installer/payload/bin/*.qm
